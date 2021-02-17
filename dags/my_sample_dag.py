@@ -10,7 +10,7 @@ args = {
 dag = DAG(dag_id='my_sample_dag', default_args=args, schedule_interval=None)
 
 
-def run_this_func():
+def run_this_func(**context):
     print('Hello World!')
 
 
