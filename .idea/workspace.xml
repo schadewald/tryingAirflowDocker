@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31cb2d5d-e742-44bb-a598-49bf9f167dd1" name="Default Changelist" comment="First working DAG, now chained">
+    <list default="true" id="31cb2d5d-e742-44bb-a598-49bf9f167dd1" name="Default Changelist" comment="Edited ReadMe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613600272983</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Edited ReadMe">
+      <created>1613673822086</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613673822086</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,7 +132,8 @@
     <MESSAGE value="Working through tutorial" />
     <MESSAGE value="First working DAG" />
     <MESSAGE value="First working DAG, now chained" />
-    <option name="LAST_COMMIT_MESSAGE" value="First working DAG, now chained" />
+    <MESSAGE value="Edited ReadMe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited ReadMe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
