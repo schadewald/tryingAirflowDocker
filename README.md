@@ -1,7 +1,8 @@
-# tryingAirflowDocker
+# Command to run
+docker-compose up -d --build
 
-Basic docker-compose container running Airflow UI on localhost:8080
+# View Container
+docker ps
 
-In directory, start with "pip install -r requirements.txt"
-Next, "docker-compose up"
-Then, navigate to localhost:8080 to see Airflow UI
+# Go inside the container
+docker exec -it 'container-id' bash
