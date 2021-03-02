@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31cb2d5d-e742-44bb-a598-49bf9f167dd1" name="Default Changelist" comment="New Code From Tutorial.">
-      <change afterPath="$PROJECT_DIR$/airflow/dags/test-dag.py" afterDir="false" />
+    <list default="true" id="31cb2d5d-e742-44bb-a598-49bf9f167dd1" name="Default Changelist" comment="Not working">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airflow/airflow.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/airflow/dags/predict_model_dag.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/airflow/dags/train_model_dag.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env.list" beforeDir="false" afterPath="$PROJECT_DIR$/env.list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/classifier.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/data/predict_iris.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/data/train_iris.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/data_reader.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614630259909</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Not working">
+      <created>1614645298937</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614645298937</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +179,7 @@
     <MESSAGE value="Edited version" />
     <MESSAGE value="Trying New Tutorial In New Branch" />
     <MESSAGE value="New Code From Tutorial." />
-    <option name="LAST_COMMIT_MESSAGE" value="New Code From Tutorial." />
+    <MESSAGE value="Not working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Not working" />
   </component>
 </project>
