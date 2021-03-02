@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31cb2d5d-e742-44bb-a598-49bf9f167dd1" name="Default Changelist" comment="Trying New Tutorial In New Branch">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airflow/airflow.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airflow/dags/predict_model_dag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airflow/dags/train_model_dag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env.list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/data/predict_iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/data/train_iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/data_reader.py" afterDir="false" />
+    <list default="true" id="31cb2d5d-e742-44bb-a598-49bf9f167dd1" name="Default Changelist" comment="New Code From Tutorial.">
+      <change afterPath="$PROJECT_DIR$/airflow/dags/test-dag.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dags/my_sample_dag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airflow/airflow.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/airflow/dags/predict_model_dag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/airflow/dags/train_model_dag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env.list" beforeDir="false" afterPath="$PROJECT_DIR$/env.list" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/classifier.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/data/predict_iris.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/data/train_iris.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/data_reader.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/airflow/dags" />
       <recent name="$PROJECT_DIR$/dags" />
+      <recent name="$PROJECT_DIR$/airflow" />
     </key>
   </component>
   <component name="RunManager">
@@ -153,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614620959747</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="New Code From Tutorial.">
+      <created>1614630259909</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614630259909</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +184,7 @@
     <MESSAGE value="Edited ReadMe" />
     <MESSAGE value="Edited version" />
     <MESSAGE value="Trying New Tutorial In New Branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying New Tutorial In New Branch" />
+    <MESSAGE value="New Code From Tutorial." />
+    <option name="LAST_COMMIT_MESSAGE" value="New Code From Tutorial." />
   </component>
 </project>
